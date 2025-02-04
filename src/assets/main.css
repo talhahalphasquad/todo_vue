@@ -1,0 +1,12 @@
+@import "./base.css";
+
+body {
+  margin: 0 auto;
+  justify-items: center;
+  background-color: black;
+}
+
+#app {
+  width: 100%;
+  font-size: medium;
+}
